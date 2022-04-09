@@ -5,8 +5,8 @@
     }
 
 body {
-    background-image: url("./nature.jpg");
-    /* background-image: url('https://source.unsplash.com/1600x900/?landscape'); */
+    /*background-image: url("./nature.jpg");*/
+     background-image: url('https://source.unsplash.com/1600x900/?landscape'); 
     background-size: cover;
     background-position: center center;
     display: flex;
